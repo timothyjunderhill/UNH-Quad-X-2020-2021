@@ -1,0 +1,2 @@
+void escInitialize();
+void pulsetoPWM();

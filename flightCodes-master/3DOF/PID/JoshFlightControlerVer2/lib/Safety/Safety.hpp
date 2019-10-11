@@ -1,0 +1,2 @@
+void SafteyInitialization();
+void Blink();
